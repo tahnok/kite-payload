@@ -28,3 +28,7 @@ Data is logged every 2 seconds (or whatever arduino thinks is 2 seconds, which m
  3. [LiIon/LiPoly Backpack Add-On](https://www.adafruit.com/product/2124)
  4. [GY-BMP280-3.3 High Precision Atmospheric Pressure Sensor](https://www.banggood.com/GY-BMP280-3_3-High-Precision-Atmospheric-Pressure-Sensor-Module-For-Arduino-p-1111135.html)
  5. [Lithium Ion Polymer Battery (100 mAh)](https://www.adafruit.com/product/1570)
+
+ ## Case
+
+ You can find the 2 parts to the case in this repo,`kite payload proto box.stl` and `kite payload proto lid.stl`
